@@ -1,2 +1,2 @@
 # corinneestevensHTML
-Final Project INFOTC 1000
+Final Project for INFOTC 1000
