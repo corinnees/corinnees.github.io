@@ -1,5 +1,3 @@
-<h1> corinneestevensHTML </h1>
-<h2> Final Project for INFOTC 1000 </h2>
 <h1> Corinne Stevens </h1>
 <h2> <strong> Student at University of Missouri-Columbia | Educator at lululemon | Economics Major </strong> </h2>
 
@@ -15,7 +13,7 @@
 
 <body> 
 
-<p> On this site you will find pages with information about my [professional experience](https://github.com/corinnees/corinnestevens/blob/c16cc06af6b34a1fa10ac472bdc196c717a25513/ProfessionalExperience.md), a [list of my involement](https://github.com/corinnees/corinnestevens/blob/c96a6357d006e4fb011c86a51627de051348b14a/Involvement.md), an example of a [block of code](https://github.com/corinnees/corinnestevens/blob/bff2dd7ed813c83a0a4159703b98b6a9f0425c14/BlockofCode.md) that I have worked on, and [links](https://github.com/corinnees/corinnestevens/blob/28703648fd9377db58e5d4dd7655c5ca64cdc9e0/Links.md) to my resume and LinkedIn profile.  
+<p> On this site you will find pages with information about my <a href="" target="_self">Professional Experience</a> , a [list of my involement](https://github.com/corinnees/corinnestevens/blob/c96a6357d006e4fb011c86a51627de051348b14a/Involvement.md), an example of a [block of code](https://github.com/corinnees/corinnestevens/blob/bff2dd7ed813c83a0a4159703b98b6a9f0425c14/BlockofCode.md) that I have worked on, and [links](https://github.com/corinnees/corinnestevens/blob/28703648fd9377db58e5d4dd7655c5ca64cdc9e0/Links.md) to my resume and LinkedIn profile.  
 
 <br>
 
